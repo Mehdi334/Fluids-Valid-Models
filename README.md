@@ -23,6 +23,13 @@ CFD Geometry:  <br/>
 <img src="https://i.imgur.com/vHgrW3Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Diagram of Separation in diffusers:  <br/>
+<img src="https://i.imgur.com/uVqs3dS.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Different Diffuser Cone Angles:  <br/>
+<img src="https://i.imgur.com/Su0zNgg.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<br />
 Gas Turbine Application: <br/>
 <img src="https://i.imgur.com/PakPOGZ.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -31,13 +38,7 @@ Motorsport Application:  <br/>
 <img src="https://i.imgur.com/GRteVZA.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Diagram of Separation in diffusers:  <br/>
-<img src="https://i.imgur.com/uVqs3dS.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Micro Gas Turbine Diffuser:  <br/>
-<img src="https://i.imgur.com/n21BiFY.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
-<br />
+
 <br />
 
 </p>
